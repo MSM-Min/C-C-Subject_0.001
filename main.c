@@ -1,11 +1,11 @@
-//project:  GeekBand c++ /the two week homework
-//author:   小江71122175 
-//file      main.c
-
+/******************************************************************************************
+**project:  GeekBand c++ /the two week homework
+**author:   Joel Jiang  
+**file      main.c
+******************************************************************************************/
 #include "rectangle.h"
 #include <cstdlib>
 #include <iostream>
-
 
 using namespace std;
 
