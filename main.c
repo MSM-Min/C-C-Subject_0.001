@@ -1,5 +1,5 @@
 /******************************************************************************************
-**project:  GeekBand c++ /the two week homework
+**project:  为 Rectangle 类实现构造函数,拷贝构造函数,赋值操作符,析构函数.
 **author:   Joel Jiang  
 **file      main.c
 ******************************************************************************************/
@@ -43,3 +43,4 @@ int main(int argc, char *argv[])
     cin.get();
     return EXIT_SUCCESS;
 }
+//end file main.c
