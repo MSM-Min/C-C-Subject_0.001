@@ -1,7 +1,3 @@
-
-
-//project:  GeekBand c++ /the two week homework
-//author:   小江71122175 
 //file      rectangle.h
 
 #ifndef __RECTANGLE_H__
